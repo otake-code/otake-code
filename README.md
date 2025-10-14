@@ -12,8 +12,8 @@
 
 <p align="center">
   <!-- プロフィール閲覧数とHPバッジ -->
-  <a href="https://github.com/okada-takeo">
-    <img src="https://komarev.com/ghpvc/?username=okada-takeo&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://github.com/otake-code">
+    <img src="https://komarev.com/ghpvc/?username=otake-code&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   </a>
   <a href="https://otake-code.github.io/">
     <img src="https://img.shields.io/badge/HP-Portfolio-blue?style=flat-square" alt="portfolio link" />
@@ -48,7 +48,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okada-takeo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=よく使う言語" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otake-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=よく使う言語" alt="Top Languages" />
 </p>
 
 ---
