@@ -3,29 +3,57 @@
 </h1>
 
 <h3 align="center">
-  現在：情報系専攻の大学院生です。
+  情報系専攻の大学院生です。
 </h3>
 
 <p align="center">
-  <img src="./images/okada.png" alt="岡田" width="100" height="100">
+  <img src="./images/okada.png" alt="岡田" width="120" height="120">
 </p>
 
-- 🔬 Vision＆Language（画像と言語）の研究に取り組んでいます。
-- 🌱 Python・機械学習・画像処理・自然言語処理を学習中。
-- 🗺️ 趣味は写真撮影と旅行です。
-- 📫 連絡先：[ポートフォリオサイト](https://otake-code.github.io/)
-- 📝 技術ブログや活動も随時更新中！
-
-<h3 align="center" >
-  My skills 💻
-</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,github,linux,vscode,md,jupyter,anaconda,ubuntu&perline=8" />
+  <!-- プロフィール閲覧数とHPバッジ -->
+  <a href="https://github.com/okada-takeo">
+    <img src="https://komarev.com/ghpvc/?username=okada-takeo&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  </a>
+  <a href="https://otake-code.github.io/">
+    <img src="https://img.shields.io/badge/HP-Portfolio-blue?style=flat-square" alt="portfolio link" />
   </a>
 </p>
 
 ---
 
-ご覧いただきありがとうございます！  
-画像と言語、AI、そして写真に興味がある方、ぜひ交流しましょう。
+- 🔬 **Vision & Language（画像×言語）** の研究に取り組んでいます。  
+- 🌱 **Python・機械学習・画像処理・自然言語処理** を学習中。  
+- 🗺️ 趣味は **写真撮影** と **旅行**。  
+- 📫 連絡先：  
+  [📁 ポートフォリオサイト](https://otake-code.github.io/) ｜ [💼 就職用メール](mailto:okdw24@gmail.com) ｜ [🎓 大学用メール](mailto:okada@cv.info.gifu-u.ac.jp)  
+- 📝 ハッカソン・学会発表などで活動しています。
+
+---
+
+<h3 align="center">
+  🧠 My Skills
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter,git,github,vscode,linux,ubuntu,docker,bash,fastapi,react,html,css,js&perline=9" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  📊 GitHub Stats
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okada-takeo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=よく使う言語" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  ご覧いただきありがとうございます！<br>
+  画像×言語・AI・写真に興味がある方、ぜひ交流しましょう。
+</p>
