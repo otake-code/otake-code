@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="./images/okada.png" alt="岡田" width="120" height="120">
+  <img src="./images/okada.png" alt="岡田" width="120">
 </p>
 
 <p align="center">
@@ -35,9 +35,24 @@
   🧠 My Skills
 </h3>
 
+<h4 align="center">Programming Languages</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,java,androidstudio,c,cpp,php,mysql,gcp,pytorch,tensorflow,opencv,git,github,vscode,linux,ubuntu,docker,bash,fastapi,arduino,pr&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,php,bash&perline=9" />
+  </a>
+</p>
+
+<h4 align="center">Frameworks and Libraries</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,pytorch,tensorflow,opencv,fastapi&perline=6" />
+  </a>
+</p>
+
+<h4 align="center">Databases and Development Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,gcp,linux,ubuntu,androidstudio,arduino,pr&perline=9" />
   </a>
 </p>
 
