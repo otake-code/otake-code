@@ -22,11 +22,11 @@
 
 ---
 
-- 🔬 **Vision & Language（画像×言語）** の研究に取り組んでいます。  
-- 🌱 **Python・機械学習・画像処理・自然言語処理** を学習中。  
-- 🗺️ 趣味は **写真撮影** と **旅行**。  
-- 📫 連絡先：  
-  [📁 ポートフォリオサイト](https://otake-code.github.io/) ｜ [💼 就職用メール](mailto:okdw24@gmail.com) ｜ [🎓 大学用メール](mailto:okada@cv.info.gifu-u.ac.jp)  
+- 🔬 **Vision & Language（画像×言語）** の研究に取り組んでいます。
+- 🌱 **Python・機械学習・画像処理・自然言語処理** を学習中。
+- 🗺️ 趣味は **写真撮影** と **旅行**。
+- 📫 連絡先：
+  [📁 ポートフォリオサイト](https://otake-code.github.io/) ｜ [💼 就職用メール](mailto:okdw24@gmail.com) ｜ [🎓 大学用メール](mailto:okada@cv.info.gifu-u.ac.jp)
 - 📝 ハッカソン・学会発表などで活動しています。
 
 ---
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter,git,github,vscode,linux,ubuntu,docker,bash,fastapi,react,html,css,js&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,java,androidstudio,c,cpp,php,mysql,gcp,pytorch,tensorflow,opencv,git,github,vscode,linux,ubuntu,docker,bash,fastapi,arduino,pr&perline=9" />
   </a>
 </p>
 
