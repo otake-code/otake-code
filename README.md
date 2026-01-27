@@ -22,7 +22,7 @@
 
 ---
 
-- 🔬 **Vision & Language（画像×言語）** の研究に取り組んでいます。
+- 🔬 **Vision & Language（画像×言語）** を用いたAIの研究に取り組んでいます。
 - 🌱 **Python・機械学習・画像処理・自然言語処理** を学習中。
 - 🗺️ 趣味は **写真撮影** と **旅行**。
 - 📫 連絡先：
@@ -63,12 +63,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otake-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=よく使う言語" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otake-code&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8&custom_title=よく使う言語" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
   ご覧いただきありがとうございます！<br>
-  画像×言語・AI・写真に興味がある方、ぜひ交流しましょう。
+  AI・写真に興味がある方、ぜひ交流しましょう。
 </p>
