@@ -63,7 +63,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otake-code&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8&custom_title=%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E8%A8%80%E8%AA%9E" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otake-code&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8&cache_seconds=86400&custom_title=%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E8%A8%80%E8%AA%9E" />
 </p>
 
 
